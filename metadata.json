@@ -1,0 +1,6 @@
+{
+  "name": "MarketPulse",
+  "description": "Financial market overview, indices, stock performance, sparklines, and interactive market analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
